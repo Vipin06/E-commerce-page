@@ -1,0 +1,109 @@
+*
+{
+	margin: 0;padding: 0;
+	box-sizing: border-box;
+}
+
+.product
+{
+	/*padding-left: 80px;
+	padding-right: 80px;*/
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.small-img
+{
+	display: flex;
+	justify-content: space-between;
+}
+
+.img-col
+{
+	flex-basis: 24%;
+	cursor: pointer;
+}
+
+#shop-d select
+{
+	display: block;
+	padding: 10px 20px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#shop-d input
+{
+	width: 55px;
+	height: 55px;
+	padding-left: 10px;
+	font-size: 16px;
+	font-weight: 700;
+	margin-right: 10px;
+}
+
+
+#shop-d
+{
+	padding-left: 50px;
+}
+
+#shop-d h3
+{
+	font-size: 30px;
+	font-weight: 600;
+	padding-top: 15px;
+	padding-bottom: 30px;
+}
+.T-Shirt
+{
+	color: #FF3434;
+	font-weight: 700;
+
+}
+
+#shop-d h2
+{
+	font-size: 25px;
+	font-weight: 600;
+	
+}
+
+.by-btn
+{
+	border: 0px;
+	outline: none;
+	padding: 15px 35px;
+	background-color: #FF3434;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+
+.by-btn:hover{
+	background-color: #FF5619;
+}
+
+#shop-d h4
+{
+	font-size: 30px;
+	font-weight: 600;
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+
+#shop-d p
+{
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 2;
+}
+
+#shop-d h6
+{
+	font-weight: 600;
+	font-style: italic;
+	font-size: 20px;
+	color: #FF5619;
+}
